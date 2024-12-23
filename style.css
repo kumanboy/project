@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*navbar*/
+#login{
+    border: none;
+    background-color: #F8F9FA;
+    color: #4CAF4F;
+}
+#signup{
+    border: none;
+    background-color: #4CAF4F;
+    color: #FFF;
+}
